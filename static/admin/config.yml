@@ -1,11 +1,12 @@
 backend:
   name: git-gateway
   branch: master
+  repo: ZamrudNoesantara/ZamrudNoesantara
 
 media_folder: static/img
 public_folder: /img
 
-display_url: https://gatsby-netlify-cms-example.netlify.com/
+display_url: https://zamrudnoesantara.netlify.app
 
 collections:
   - name: "meetups"
