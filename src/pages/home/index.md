@@ -1,9 +1,9 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/television.png
-  imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
+  image: /img/discord-token-icon-dark-by-flexo013-daaj71i.png
+  imageAlt: Zamrud Noesantara
+title: Zamrud Noesantara
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
@@ -16,13 +16,13 @@ callToActions:
   secondCTA:
     heading: Volunteer to Present
     linkType: external
-    linkURL: 'mailto:contact@js-wakanda.org'
+    linkURL: 'mailto:contact@zamrudnoesantara.org'
     subHeading: Want to present at an upcoming meetup? Contact us.
 seo:
-  browserTitle: JS Wakanda
+  browserTitle: Zamrud Noesantara
   description: >-
-    JavaScript meetup group in Wakanda where JavaScript developers get together
-    for presentations and to meet others in the community.
-  title: JavaScript Wakanda
+    Zamrud Noesantara Hanya sebuah Group yang bermulai dari sebuah game Guild
+    Wars 2, sekarang sudah pindah ke kolaborasi di GitHub. dan ada webnya!!
+  title: Zamrud Noesantara
 ---
 
